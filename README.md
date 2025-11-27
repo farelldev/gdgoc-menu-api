@@ -19,7 +19,7 @@ Project created for **Google Developer Groups on Campus (GDGoC) — Role: Hacker
 ## 📂 Project Structure
 
 ```bash
-gdgoc-menu-api-final/
+gdgoc-menu-api/
 │ .env.example           # Example environment variables (no secret key)
 │ package.json           # Dependencies & scripts
 │ package-lock.json
