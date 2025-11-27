@@ -1,0 +1,18 @@
+{
+  "name": "gdgoc-menu-api",
+  "version": "1.0.0",
+  "description": "Menu Catalog API - Express + SQLite (Postman-compliant)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "init-db": "node src/db.js --init"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
