@@ -137,14 +137,7 @@ POST /menu/ai/generate-description
 
 Import file: 📁 `gdgoc-menu-api.postman_collection.json`
 
-Sudah tersedia lengkap dengan contoh request dan body format.
-
----
-
-## 🎥 Demo Video
-
-📌 Akan disertakan dalam submission:
-➡ YouTube / Drive link (coming soon)
+Fully provided with example requests and body formats.
 
 ---
 
@@ -162,8 +155,7 @@ Sudah tersedia lengkap dengan contoh request dan body format.
 **Farelldeo Lionel Chalvary**
 Backend Hacker — GDGoC 2025
 
-📧 Contact: *coming soon*
-🔗 GitHub Repo Link: *added later*
+📧 Contact: *farelldeolionelchalvary@gail.com*
 
 ---
 
@@ -173,4 +165,4 @@ This project is licensed under **MIT License**.
 
 ---
 
-Terima kasih telah berkunjung 🎉🔥 `Now you can test the API using Postman or browser!`
+Thank you for visiting 🎉🔥 `Now you can test the API using Postman or browser!`
