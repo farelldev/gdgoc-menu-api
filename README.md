@@ -155,7 +155,7 @@ Fully provided with example requests and body formats.
 **Farelldeo Lionel Chalvary**
 Backend Hacker — GDGoC 2025
 
-📧 Contact: *farelldeolionelchalvary@gail.com*
+📧 Contact: *farelldeolionelchalvary@gmail.com*
 
 ---
 
